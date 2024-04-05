@@ -50,9 +50,4 @@ bisa didownload di link ini https://www.apachefriends.org/download.html
 
 download aplikasi dengan git `git clone https://github.com/mohamad-bin-idrus/ProjectPPL.git `
 
-
-```bash
-  npm install my-project
-  cd my-project
-```
     
