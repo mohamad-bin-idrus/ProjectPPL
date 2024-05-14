@@ -3,7 +3,7 @@
                             <head>
                                 <meta charset='utf-8'>
                                 <meta name='viewport' content='width=device-width, initial-scale=1'>
-                                <title>Snippet - BBBootstrap</title>
+                                <title>Example</title>
                                 <link href='/bootstrap-5.3.3-dist/css/bootstrap.min.css' rel='stylesheet'>
                                 <link href='https://use.fontawesome.com/releases/v5.7.2/css/all.css' rel='stylesheet'>
                                 <script type='text/javascript' src='/assets/jquery.min.js'></script>
