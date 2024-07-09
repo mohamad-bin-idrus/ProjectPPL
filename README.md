@@ -34,7 +34,7 @@ widgets
 
 ```
 
-## Installation
+# Installation
 Step 1 : [install composer](https://getcomposer.org/download/)
 
 Step 2 : [install git](https://git-scm.com/download/win) untuk remote project
@@ -43,19 +43,32 @@ Step 3 : install php dan MySQLterbaru. disini bisa menggunakaan [XAMPP](https://
 
 Step 4 : download repo pada link dibawah 
 ```bash
-git clone https://github.com/mohamad-bin-idrus/ProjectPPL.git 
+https://github.com/raissidiq16/ppl-laporan-kerusakan.git 
 
 ```
-Step 5 : buat database dengan nama ppl
+Step 5 : buat database dengan nama laratas
 
+Step 6 : instalasi semua dependensi 
+```
+composer install
+```
+Step 7 : ubah .env.evample menjadi .env
+
+step 8 : 
 Step 6 : lakukan migrate database
 ``` bash
 php artisan migrate
+```
+Step 6 : hubungkan storage
+``` bash
+php artisan storage:link
 ``` 
+
 step 7 : jalankan program
 ``` bash
 php artisan serve
 ``` 
+
 
 ## Project Member
 
